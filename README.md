@@ -16,7 +16,7 @@ I'm **Mihailo Marković** - **Master's Student in IT** | **Frontend Web Develope
 ### 📫 Let's Connect  
 🔗 **[LinkedIn](https://www.linkedin.com/in/markovicmihailo/)**  
 📧 **markovic.mihailo98@gmail.com**  
-📞 **0603308610**  
+📞 **+381603308610**  
 
 ### 🌍 Outside of Tech  
 When I'm not coding, you'll probably find me **climbing, hiking, or camping**—always chasing adventure and a challenge. 🏔️🔥  
