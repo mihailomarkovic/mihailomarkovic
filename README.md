@@ -19,7 +19,7 @@ I'm **Mihailo Marković** - **Master's Student in IT** | **Frontend Web Develope
 📞 **+381603308610**  
 
 ### 🌍 Outside of Tech  
-When I'm not coding, you'll probably find me **climbing, hiking, or camping**—always chasing adventure and a challenge. 🏔️🔥  
+When I'm not coding, you'll probably find me **free climbing, hiking, or camping**—always chasing adventure and a challenge. 🏔️🔥  
 
 ---
 
