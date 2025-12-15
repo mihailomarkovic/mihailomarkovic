@@ -5,18 +5,18 @@ I'm **Mihailo Marković** - **Master's Student in IT** | **Frontend Web Develope
 ### 🚀 About Me  
 🔹 **Bachelor’s in Mechanical Engineering** from the University of Belgrade  
 🔹 **Currently pursuing a Master’s in IT** at the same university  
-🔹 **Self-taught Frontend Developer**, building projects with **HTML, CSS, SASS, and JavaScript**  
+🔹 **Self-taught Frontend Developer**, building projects with **HTML, CSS, SASS, JavaScript and React**  
 🔹 **Looking for an internship** to gain hands-on experience in web development  
 
 ### 💻 What I'm Working On  
-- Expanding my **JavaScript** and frontend skills  
+- Expanding my **JavaScript** and **React** skills  
 - Building and refining **personal projects** (check them out on my GitHub!)  
 - Learning **new technologies** to stay ahead in the field  
 
 ### 📫 Let's Connect  
 🔗 **[LinkedIn](https://www.linkedin.com/in/markovicmihailo/)**  
 📧 **markovic.mihailo98@gmail.com**  
-📞 **+381603308610**  
+📞 **+393889086185**  
 
 ### 🌍 Outside of Tech  
 When I'm not coding, you'll probably find me **free climbing, hiking, or camping**—always chasing adventure and a challenge. 🏔️🔥  
