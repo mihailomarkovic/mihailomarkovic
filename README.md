@@ -3,8 +3,8 @@
 I'm **Mihailo Marković** - **Master's Student in IT** | **Frontend Web Developer** | **Mechanical Engineer**  
 
 ### 🚀 About Me  
-🔹 **Master’s degree in IT** from the University of Belgrade
-🔹 **Bachelor’s in Mechanical Engineering** at the same university
+🔹 **Master’s degree in IT** from the University of Belgrade  
+🔹 **Bachelor’s in Mechanical Engineering** at the same university  
 🔹 **Self-taught Frontend Developer**, building projects with **HTML, CSS, SASS, JavaScript and React**  
 🔹 **Looking for a job or internship** to gain hands-on experience in web development  
 
